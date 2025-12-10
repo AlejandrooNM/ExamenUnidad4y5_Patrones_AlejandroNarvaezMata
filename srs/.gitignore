@@ -1,0 +1,5 @@
+# .gitignore for srs
+# Ignore common generated and binary files for SRS artifacts
+*.docx
+*.pdf
+*.tmp

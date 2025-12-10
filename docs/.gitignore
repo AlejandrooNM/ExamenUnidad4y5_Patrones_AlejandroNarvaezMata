@@ -1,0 +1,5 @@
+# .gitignore for docs
+# Ignore common generated and binary files for docs
+*.docx
+*.pdf
+*.tmp

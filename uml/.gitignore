@@ -1,0 +1,6 @@
+# .gitignore for uml
+# Ignore generated UML images and temporary files
+*.png
+*.svg
+*.vsdx
+*.tmp
