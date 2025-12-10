@@ -1,0 +1,28 @@
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.exe
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.deps.json
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.pdb
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\refint\RestauranteSimulacion.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.pdb
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 2\Examen unidad 2\RestauranteSimulacion\obj\Debug\net6.0\ref\RestauranteSimulacion.dll
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.exe
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.deps.json
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.runtimeconfig.json
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.dll
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\bin\Debug\net6.0\RestauranteSimulacion.pdb
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.AssemblyInfoInputs.cache
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.AssemblyInfo.cs
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.csproj.CoreCompileInputs.cache
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.dll
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\refint\RestauranteSimulacion.dll
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.pdb
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\RestauranteSimulacion.genruntimeconfig.cache
+c:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\RestauranteSimulacion\obj\Debug\net6.0\ref\RestauranteSimulacion.dll

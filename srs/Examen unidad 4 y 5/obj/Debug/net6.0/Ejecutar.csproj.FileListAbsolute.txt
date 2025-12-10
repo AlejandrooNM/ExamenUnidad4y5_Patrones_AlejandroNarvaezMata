@@ -1,0 +1,14 @@
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\bin\Debug\net6.0\RestauranteSimulacion.Root.exe
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\bin\Debug\net6.0\RestauranteSimulacion.Root.deps.json
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\bin\Debug\net6.0\RestauranteSimulacion.Root.runtimeconfig.json
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\bin\Debug\net6.0\RestauranteSimulacion.Root.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\bin\Debug\net6.0\RestauranteSimulacion.Root.pdb
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\Ejecutar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\Ejecutar.AssemblyInfoInputs.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\Ejecutar.AssemblyInfo.cs
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\Ejecutar.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\RestauranteSimulacion.Root.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\refint\RestauranteSimulacion.Root.dll
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\RestauranteSimulacion.Root.pdb
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\Ejecutar.genruntimeconfig.cache
+C:\Users\Alejandro\Desktop\Patrones\Unidad 4\Examen unidad 4 y 5\obj\Debug\net6.0\ref\RestauranteSimulacion.Root.dll

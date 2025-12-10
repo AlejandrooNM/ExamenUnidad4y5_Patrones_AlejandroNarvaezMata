@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <EnableDefaultItems>false</EnableDefaultItems>
+    <RootNamespace>RestauranteSimulacion</RootNamespace>
+    <AssemblyName>RestauranteSimulacion.Root</AssemblyName>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="RestauranteSimulacion\**\*.cs" Exclude="RestauranteSimulacion\obj\**;RestauranteSimulacion\bin\**" />
+  </ItemGroup>
+</Project>

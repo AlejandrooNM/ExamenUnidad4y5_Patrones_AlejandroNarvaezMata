@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="ObjectPool.cs" />
+    <Compile Remove="IFormateadorMesero.cs" />
+    <Compile Remove="FormateadorMeseroBase.cs" />
+    <Compile Remove="FormateadorMeseroDecorator.cs" />
+    <Compile Remove="ColorFormateador.cs" />
+    <Compile Remove="Cliente.cs" />
+    <Compile Remove="Application\AtencionService.cs" />
+    <Compile Remove="Infrastructure\ILogger.cs" />
+    <Compile Remove="Infrastructure\ConsoleLogger.cs" />
+    <Compile Remove="Infrastructure\IPedidoRepository.cs" />
+    <Compile Remove="Infrastructure\PedidoRepositoryMemoria.cs" />
+  </ItemGroup>
+
+
+</Project>
